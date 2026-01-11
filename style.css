@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    margin: 8px;
+}
+
+.done {
+    text-decoration: line-through;
+    color: gray;
+}
